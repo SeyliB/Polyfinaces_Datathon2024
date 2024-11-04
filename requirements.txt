@@ -1,1 +1,14 @@
 streamlit
+pandas
+boto3
+python-dotenv
+scikit-learn
+matplotlib 
+yfinance
+numpy
+PyPDF2
+pycryptodome
+newsapi-python
+plotly
+botocore
+textblob
